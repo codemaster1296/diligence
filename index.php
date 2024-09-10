@@ -46,7 +46,7 @@ include 'topbar.php'; ?>
                     <div class="col-lg-7 animated fadeInLeft">
                         <div class="text-sm-center text-md-start">
                             <h4 class="text-white text-uppercase fw-bold mb-4">Welcome To Diligence</h4>
-                            <h1 class="display-1 text-white mb-4">Life Insurance Makes You Happy</h1>
+                            <h1 class="display-1 text-white mb-4">Our service Makes You Happy</h1>
                             <p class="mb-5 fs-5">Lorem Ipsum is simply dummy text of the printing and typesetting
                                 industry. Lorem Ipsum has been the industry's standard dummy...
                             </p>
@@ -78,7 +78,7 @@ include 'topbar.php'; ?>
                     <div class="col-lg-7 animated fadeInRight">
                         <div class="text-sm-center text-md-end">
                             <h4 class="text-white text-uppercase fw-bold mb-4">Welcome To Diligence</h4>
-                            <h1 class="display-1 text-white mb-4">Life Insurance Makes You Happy</h1>
+                            <h1 class="display-1 text-white mb-4">our service Makes You Happy</h1>
                             <p class="mb-5 fs-5">Lorem Ipsum is simply dummy text of the printing and typesetting
                                 industry. Lorem Ipsum has been the industry's standard dummy...
                             </p>
@@ -101,7 +101,7 @@ include 'topbar.php'; ?>
     <div class="container py-5">
         <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
             <h4 class="text-primary">Our Features</h4>
-            <h1 class="display-4 mb-4">Insurance Provide you a Better Future</h1>
+            <h1 class="display-4 mb-4">Education Provide you a Better Future</h1>
             <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis
                 cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint
                 dolorem autem obcaecati, ipsam mollitia hic.
@@ -137,7 +137,7 @@ include 'topbar.php'; ?>
                     <div class="feature-icon p-4 mb-4">
                         <i class="fa fa-bullseye fa-3x"></i>
                     </div>
-                    <h4 class="mb-4">Flexible Plans</h4>
+                    <h4 class="mb-4">Flexible Courses Plans</h4>
                     <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea hic laborum odit
                         pariatur...
                     </p>
