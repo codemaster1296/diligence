@@ -9,7 +9,7 @@
                                 <div class="col-md-6 col-lg-6 col-xl-5">
                                     <div class="footer-item">
                                         <a href="index.html" class="p-0">
-                                            <h3 class="text-white"><i class="fab fa-slack me-3"></i> LifeSure</h3>
+                                            <h3 class="text-white"><i class="fab fa-slack me-3"></i> Diligence Computer</h3>
                                             <!-- <img src="img/logo.png" alt="Logo"> -->
                                         </a>
                                         <p class="text-white mb-4">Dolor amet sit justo amet elitr clita ipsum elitr est.Lorem ipsum dolor sit amet, consectetur adipiscing...</p>
@@ -172,7 +172,7 @@
                         <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
                         <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
                         <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                        Designed By <a class="border-bottom text-white" href="https://htmlcodex.com">HTML Codex</a> Distributed By <a class="border-bottom text-white" href="https://themewagon.com">ThemeWagon</a>
+                        Designed By <a class="border-bottom text-white" href="https://htmlcodex.com">codemaster</a> Distributed By <a class="border-bottom text-white" href="https://themewagon.com">DC</a>
                     </div>
                 </div>
             </div>
