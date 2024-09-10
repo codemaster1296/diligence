@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8">
-        <title>LifeSure - Life Insurance Website Template</title>
+        <title>Diligence Team</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
         <meta content="" name="description">
@@ -188,7 +188,7 @@
                                 </div>
                             </div>
                             <div class="team-title p-4">
-                                <h4 class="mb-0">David James</h4>
+                                <h4 class="mb-0">Prafull Pradhan</h4>
                                 <p class="mb-0">Profession</p>
                             </div>
                         </div>
@@ -205,8 +205,8 @@
                                 </div>
                             </div>
                             <div class="team-title p-4">
-                                <h4 class="mb-0">David James</h4>
-                                <p class="mb-0">Profession</p>
+                                <h4 class="mb-0">Prafull Pradhan</h4>
+                                <p class="mb-0">Educator</p>
                             </div>
                         </div>
                     </div>
